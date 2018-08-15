@@ -6,7 +6,7 @@ Try Jest, higher-order components and custom middlewares.
 
 ```
 $ git clone git@github.com:stozuka/Jest-HOC-MW.git
-$ cd react-jest-testing
+$ cd Jest-HOC-MW
 $ npm install
 $ npm start
 ```
